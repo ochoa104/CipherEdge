@@ -5,8 +5,8 @@ Welcome to my GitHub portfolio! I'm Eliza Ochoa, a student with a strong focus o
 
 ## Projects
 ### Live Portfolio
-- **Objective**: Develop a website that include my bio, projects, resume, contact, and publications (white paper).
-- **Tools Used**: Python, HTML, CSS
+- **Objective**: Develop a website that include my bio, projects, resume, contact, and publications (white paper, blog, research, etc.).
+- **Tools Used**: Python, HTML, CSS, R, PowerShell, Hypervisor, CRM, MySQL, Linux, Networking OSI Model, SDCL Methodologies, PySpark, Dockers.
 - **Outcome**: Create my own landing page for employers.
 
 ### Data Analysis on Mental Health in Tech Industry
