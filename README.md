@@ -18,6 +18,7 @@ Welcome to my GitHub portfolio! I'm Eliza Ochoa, a student with a strong focus o
 ## Publications
 ### White Paper
 - **A Comprehensive Study of DoD Training and Needs in the Cyberspace Field, 2025 https://zenodo.org/records/14799062?token=eyJhbGciOiJIUzUxMiJ9.eyJpZCI6ImNmNDIzZTE2LWJlYTMtNDkxMy04MTIxLWY4YjY3MDFhOTcxMSIsImRhdGEiOnt9LCJyYW5kb20iOiI3NTE4MDJhOWM0ZjA5YjQxODJlZTk4ODBiZjlhMzVjZCJ9.DmqhCBCbby4z7v42y03HCzjHTOqcoox4sRNl7dPALsGU4qOr2yK-vNhT0ZyrWJqW5W4w_7x_JmiW_3lS5g74kg
+  
 - **Mental Health Data Analysis in R, 2024 https://zenodo.org/records/14799104?token=eyJhbGciOiJIUzUxMiJ9.eyJpZCI6ImZlZDVmMGYxLTY2ODUtNDY5YS1hM2ZlLWViMmNlZjI2ZDMzZSIsImRhdGEiOnt9LCJyYW5kb20iOiIwZGQ3N2QyOWM3ZmE0NTRhNTg2OTQ2ZTgwMzc0M2ViYSJ9.BkxvlnDPG5O22CzFQaUvSis4LdNWQDl_6MZbnWjjXr93MsHMjyxmYjQTwivXYRc49-s6zTmqyMVKuiSUK-xAYw
   
 ## Installation
