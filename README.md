@@ -1,4 +1,4 @@
-# Eliza Ochoa's Cybersecurity and Data Science Workbook.
+# Eliza Ochoa's Cybersecurity and Data Science Portfolio.
 
 ## Introduction
 Welcome to my GitHub portfolio! I'm Eliza Ochoa, a student with a strong focus on Cybersecurity, Data Science, and Network Security. This repository showcases my projects, coursework, and learning progress in these areas.
@@ -20,6 +20,8 @@ python3 script_name.py
 
 ## Contributions
 Contributions are always welcome! Please read the `CONTRIBUTING.md` for details on our code of conduct, and the process for submitting pull requests to us.
+
+**https://www.paypal.com/donate/?business=EP5ZT6TPRXYV8&no_recurring=0&item_name=Thank+you+for+supporting+my+page.+&currency_code=USD**
 
 ## License
 This project is licensed under the MIT License - see the `LICENSE.md` file for details.
