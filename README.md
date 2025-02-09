@@ -16,8 +16,8 @@ Welcome to my GitHub portfolio! I'm Eliza Ochoa, a student with a strong focus o
 - **Results**: Created visualizations and predictive models to identify predictor and create recommendation to mitigate impact.
 
 ## Publications
-###[White Paper] Mental Health Data Analysis in R, 2024 
-###[White Paper] A Comprehensive Study of DoD Training Applications and Needs in the Cyberspace Field, 2025
+###[White Paper] **Mental Health Data Analysis in R, 2024** 
+###[White Paper] **A Comprehensive Study of DoD Training Applications and Needs in the Cyberspace Field, 2025**
 
 
 ## Installation
