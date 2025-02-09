@@ -1,0 +1,18 @@
+title: "My Portfolio"
+description: "Showcasing my projects, blog, and publications."
+author: "Eliza Ochoa/CipherEdge Solution"
+email: "ochoaeg@gmail.com"
+baseurl: ""  # Leave empty unless using a subdirectory
+url: "https://ochoa104.github.io/CipherEdge"  # Your GitHub Pages URL
+theme: jekyll-theme-cayman  # Change this if you want a different Jekyll theme
+
+plugins:
+  - jekyll-feed
+  - jekyll-seo-tag
+
+# Customize Navigation Links (if using a theme that supports it)
+navbar-links:
+  Home: "/"
+  Blog: "/blog"
+  Projects: "/projects"
+  Publications: "/publications"
