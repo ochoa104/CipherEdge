@@ -1,5 +1,9 @@
 # Eliza Ochoa's Cybersecurity and Data Science Portfolio
 
+https://learn.microsoft.com/api/achievements/share/en-us/Eliza-5815/ZKA86M62?sharingId=117F80725CDA7767
+https://learn.microsoft.com/api/achievements/share/en-us/Eliza-5815/UYCJZZ43?sharingId=117F80725CDA7767
+https://learn.microsoft.com/api/achievements/share/en-us/Eliza-5815/VDZW4TBM?sharingId=117F80725CDA7767
+
 ## Introduction
 Welcome to my GitHub portfolio! I'm Eliza Ochoa, a student with a strong focus on Cybersecurity, Data Science, and Network Security. This repository showcases my projects, coursework, and learning progress in these areas.
 
